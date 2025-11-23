@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+requests
+playwright
+beautifulsoup4
+pandas
+pdfplumber
+lxml
+pyyaml
